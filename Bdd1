@@ -1,0 +1,9 @@
+Cenário 1: Acessar a página de Cadastro de usuário no portal Demo Mercafacil
+
+Dado que um cliente queira realizar o seu cadastro no portal (https://cadastramento-demo.mercafacil.com/#/home)
+
+Quando o mesmo insere um CPF ou CNPJ valido no campo (CNPJ/CPF)
+
+E clica no botão “Continuar”
+
+Então o portal deverá direcionar para a página de cadastro.
